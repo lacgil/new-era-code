@@ -4,3 +4,7 @@ This is New Era Code
 November
 getting from staging area
 Git branching strategy
+
+
+
+Added a branch dev
